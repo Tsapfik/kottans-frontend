@@ -4,7 +4,7 @@ Preparatory stage of _Front-End Course_.
 
 ### General
  - [x] [0. Git Basics](https://github.com/Tsapfik/kottans-frontend#git-basics)
- - [ ] 1. Linux CLI and Networking
+ - [x] [1. Linux CLI and Networking](https://github.com/Tsapfik/kottans-frontend#linux-cli-and-http)
  - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
@@ -23,7 +23,7 @@ Preparatory stage of _Front-End Course_.
 - [ ] 13. Website Performance Optimization
 - [ ] 14. Friends App
 
-# Git Basics
+## Git Basics
 
 Absolutly everything on this course is new to me. Even markdown on github :) I didn't use any CVS before.
 
@@ -125,5 +125,40 @@ press `q` to **quit** out of the log (returns to the regular command prompt)
 `$ git checkout -- index.html`
 
 `$ git merge backup`
+
+</details>
+
+## Linux CLI, and HTTP
+
+I'm new to this topic as well as git. Therefore, for me all the information was new, but not complicated. After using git-bash, it was easier to understand the Linux commands. As a future developer, I think that there will be tasks in which I will need the knowledge from this section of the course.
+
+ ### My Linux CLI results
+
+<details> <summary> Result screenshots </summary>
+
+<p>
+
+![linux-cli-screenshot-1](task_linux_cli/linux-quiz-1.jpg)
+
+</p>
+
+<p>
+
+![linux-cli-screenshot-2](task_linux_cli/linux-quiz-2.jpg)
+
+</p>
+
+<p>
+
+![linux-cli-screenshot-3](task_linux_cli/linux-quiz-3.jpg)
+
+</p>
+
+
+<p>
+
+![linux-cli-screenshot-4](task_linux_cli/linux-quiz-4.jpg)
+
+</p>
 
 </details>
