@@ -5,7 +5,7 @@ Preparatory stage of _Front-End Course_.
 ### General
  - [x] [0. Git Basics](https://github.com/Tsapfik/kottans-frontend#git-basics)
  - [x] [1. Linux CLI and Networking](https://github.com/Tsapfik/kottans-frontend#linux-cli-and-http)
- - [ ] 2. VCS (hello gitty), GitHub and Collaboration
+ - [x] [2. VCS (hello gitty), GitHub and Collaboration](https://github.com/Tsapfik/kottans-frontend#git-collaboration)
 
 ### Front-End Basics
  - [ ] 3. Intro to HTML & CSS
@@ -158,6 +158,40 @@ I'm new to this topic as well as git. Therefore, for me all the information was 
 <p>
 
 ![linux-cli-screenshot-4](task_linux_cli/linux-quiz-4.jpg)
+
+</p>
+
+</details>
+
+## Git Collaboration
+
+Before the beginning of the learning I did not work with Git, so almost everything was new for me at this time too.
+
+I had a little headache to solve the puzzles on learngitbranchin. But that was cool!
+
+This time it was a little easier to learn and understand insted of basics. But  I got acquainted and better understood the GitHub web interface and realized that the pull request is not as scary as it seemed at first. 
+
+In the future, I will definitely use the git rebase command, but be careful :)
+
+### Git Collaboration results
+
+<details> <summary> Result screenshots </summary>
+
+<p>
+
+![linux-cli-screenshot-1](task_git_collaboration/udacity-cource-screen.jpg)
+
+</p>
+
+<p>
+
+![linux-cli-screenshot-2](task_git_collaboration/git-collaboration-1.jpg)
+
+</p>
+
+<p>
+
+![linux-cli-screenshot-3](task_git_collaboration/git-collaboration-2.jpg)
 
 </p>
 
