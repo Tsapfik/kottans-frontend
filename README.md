@@ -8,7 +8,7 @@ Preparatory stage of _Front-End Course_.
  - [x] [2. VCS (hello gitty), GitHub and Collaboration](https://github.com/Tsapfik/kottans-frontend#git-collaboration)
 
 ### Front-End Basics
- - [ ] 3. Intro to HTML & CSS
+ - [x] [3. Intro to HTML & CSS](https://github.com/Tsapfik/kottans-frontend#intro-to-html-and-css)
  - [ ] 4. Responsive Web Design
  - [ ] 5. HTML & CSS Practice
  - [ ] 6. JavaScript Basics
@@ -179,19 +179,51 @@ In the future, I will definitely use the git rebase command, but be careful :)
 
 <p>
 
-![linux-cli-screenshot-1](task_git_collaboration/udacity-cource-screen.jpg)
+![git-collaboration-1](task_git_collaboration/udacity-cource-screen.jpg)
 
 </p>
 
 <p>
 
-![linux-cli-screenshot-2](task_git_collaboration/git-collaboration-1.jpg)
+![git-collaboration-2](task_git_collaboration/git-collaboration-1.jpg)
 
 </p>
 
 <p>
 
-![linux-cli-screenshot-3](task_git_collaboration/git-collaboration-2.jpg)
+![git-collaboration-3](task_git_collaboration/git-collaboration-2.jpg)
+
+</p>
+
+</details>
+
+## Intro to HTML and CSS
+
+At one time I tried to make some primitive templates eith HTML and CSS before start to study this course. And and at that time I thought, that I know HTML. But this part of the course showed me that I still need to learn and more practice. Something was that I know, but something was new for me, most of it concerns CSS. 
+
+It was helpful experience with CSS-Flexbox and CSS-Grid. It was not very difficult, but quite voluminous and time-consuming to learn.
+
+This is a basis for any front-end developer, so I'm sure that I'll use all this knowledges in the future work.
+
+### Intro HTML and CSS results
+
+<details> <summary> Result screenshots </summary>
+
+<p>
+
+![html-css-screenshot-1](task_intro_html_css/udacity-screen-shoot.jpg)
+
+</p>
+
+<p>
+
+![html-css-screenshot-2](task_intro_html_css/codeacademy-html-done.jpg)
+
+</p>
+
+<p>
+
+![html-css-screenshot-3](task_intro_html_css/codeacademy-css-done.jpg)
 
 </p>
 
