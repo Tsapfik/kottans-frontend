@@ -199,11 +199,11 @@ In the future, I will definitely use the git rebase command, but be careful :)
 
 ## Intro to HTML and CSS
 
-At one time I tried to make some primitive templates eith HTML and CSS before start to study this course. And and at that time I thought, that I know HTML. But this part of the course showed me that I still need to learn and more practice. Something was that I know, but something was new for me, most of it concerns CSS. 
+At one time I tried to make some primitive templates with HTML and CSS, before start to study this course. And at that time I thought, that I know HTML. But this part of the course showed me that I still need to learn and more practice. Something was I know, but something was new for me, most of it concerns CSS. 
 
 It was helpful experience with CSS-Flexbox and CSS-Grid. It was not very difficult, but quite voluminous and time-consuming to learn.
 
-This is a basis for any front-end developer, so I'm sure that I'll use all this knowledges in the future work.
+This is a basis for any front-end developer, so I'm sure that I'll use all this knowledges in my future work.
 
 ### Intro HTML and CSS results
 
